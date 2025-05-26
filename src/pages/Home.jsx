@@ -181,7 +181,7 @@ const Home = () => {
     }
 
     useEffect(() => {
-      console.log('abcd :', abcd);
+      console.log('abcd :', abcde);
     }, [])
 
     return (
