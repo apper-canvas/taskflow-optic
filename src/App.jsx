@@ -42,7 +42,7 @@ function App() {
                 <span className="text-2xl">📋</span>
               )}
             </motion.div>
-            <h1 className="text-xl md:text-2xl font-bold gradient-text">TaskFlow</h1>
+            <h1 className="text-xl md:text-2xl font-bold gradient-text">Task Manager</h1>
           </div>
           
           <motion.button
