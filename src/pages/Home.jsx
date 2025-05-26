@@ -4,7 +4,6 @@ import { toast } from 'react-toastify'
 import { format } from 'date-fns'
 import { getIcon } from '../utils/iconUtils'
 import MainFeature from '../components/MainFeature'
-import abcd from '../abcd'
 
 // Sample projects data
 const initialProjects = [
