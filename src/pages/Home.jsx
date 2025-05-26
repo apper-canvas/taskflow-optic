@@ -180,9 +180,6 @@ const Home = () => {
       return format(new Date(dateString), 'MMM d, yyyy')
     }
 
-    useEffect(() => {
-      console.log('abcd :', abcde);
-    }, [])
 
     return (
       <motion.div 
